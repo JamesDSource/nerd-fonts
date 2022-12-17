@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="300"
+   height="600"
+   viewBox="0 0 300 600"
+   version="1.1"
+   xml:space="preserve"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
+   id="svg92"
+   sodipodi:docname="odin-logo.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs96" /><sodipodi:namedview
+   id="namedview94"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="true"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="2.1913124"
+   inkscape:cx="161.09068"
+   inkscape:cy="310.77267"
+   inkscape:window-width="2560"
+   inkscape:window-height="1371"
+   inkscape:window-x="2560"
+   inkscape:window-y="1472"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg92"
+   showguides="false" />
+    <g
+   id="ODIN"
+   transform="matrix(1.6276041,0,0,1.6276041,-734.28996,-968.7623)"
+   style="fill:#ffffff;image-rendering:auto">
+        <g
+   transform="matrix(0.163923,0,0,0.163923,432.428,576.237)"
+   id="g76"
+   style="fill:#ffffff">
+            <g
+   id="O"
+   style="fill:#ffffff">
+                <path
+   d="m 430.516,1595.76 c -16.576,-11.38 -29.677,-22.4 -29.677,-22.4 L 827.125,835.012 c 0,0 17.547,6.508 32.041,13.457 18.27,8.757 33.403,17.294 33.403,17.294 206.631,119.3 277.541,383.917 158.241,590.547 -119.303,206.64 -383.92,277.54 -590.554,158.24 0,0 -14.473,-8.32 -29.74,-18.79 z M 856.543,928.162 496.282,1552.15 c 172.195,99.42 392.709,40.33 492.126,-131.86 99.412,-172.2 40.332,-392.71 -131.865,-492.128 z M 321.659,1487.36 c -14.487,-20.98 -19.644,-31.04 -19.644,-31.04 -74.475,-129.36 -79.937,-293.86 0.003,-432.32 79.94,-138.46 225.128,-215.977 374.397,-216.161 0,0 20.153,-0.052 36.933,1.555 25.28,2.422 42.087,5.684 42.087,5.684 L 347.771,1521.17 c 0,0 -9.671,-10.01 -26.112,-33.81 z M 633.291,882.532 c -108.638,13.203 -209.994,75.512 -268.874,177.498 -58.88,101.98 -62.162,220.91 -19.278,321.6 z"
+   style="fill:#ffffff"
+   id="path73" />
+            </g>
+        </g>
+        
+        
+        
+    </g>
+</svg>
